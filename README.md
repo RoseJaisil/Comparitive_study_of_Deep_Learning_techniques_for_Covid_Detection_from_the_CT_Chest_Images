@@ -1,0 +1,2 @@
+# Comparitive_study_of_Deep_Learning_techniques_for_Covid_Detection_from_the_CT_Chest_Images
+The goal is to compare the performance of the deep learning techniques for detecting Covid from CT Chest Images. The algorithms are tested with the novelty of adding medican filtering and appropriate data augmentation techniques. The models used are pretrained deep neural network like Densenet, Resnet and Vgg nets. The challenge here is to address the issue less number of medical data for the data hungry deep learing techniques. 
